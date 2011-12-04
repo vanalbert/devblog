@@ -1,0 +1,39 @@
+<!-- Article entry -->
+		<article class="clearfix">
+			<h2></h2>
+			<p></p>
+			<div id="links">
+				<h5>Links</h5>
+				<ul>
+					<li><a href="#"></a></li>
+				</ul>
+			</div>
+			
+			<div id="note">
+				<h5>Notes:</h5>
+				<p></p>
+			</div>
+		</article>
+		
+		
+<!-- Glossary entry -->
+
+			<div id="glossentry">
+				<h4></h4>
+				<p></p>
+				<div id="links">
+					<h5>Links</h5>
+					<ul>
+						<li><a href="#">Glossary Link</a></li>
+					</ul>
+				</div><!-- #links close -->
+					
+				<div id="note">
+					<h5>Notes:</h5>
+					<p></p>
+				</div><!-- #note close -->
+
+
+			<div><!-- #glossentry close -->
+		
+	
